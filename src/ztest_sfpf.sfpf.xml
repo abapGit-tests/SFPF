@@ -417,28 +417,12 @@ ZGY6UkRGPg0KPC94OnhtcG1ldGE+PC94ZHA6eGRwPg==</LAYOUT>
    </cls:CL_FP_DATA>
    <cls:CL_FP_CONDITION id="o114">
     <CL_FP_CONDITION classVersion="1">
-     <NODE href="#o105"/>
-     <CONDITIONS>
-      <SFPCONDITION>
-       <LOPERATOR/>
-       <OPERAND1>GV_TEST</OPERAND1>
-       <COPERATOR>EQ</COPERATOR>
-       <OPERAND2>&apos;X&apos;</OPERAND2>
-      </SFPCONDITION>
-     </CONDITIONS>
+     <NODE href="#o105"/>    
     </CL_FP_CONDITION>
    </cls:CL_FP_CONDITION>
    <cls:CL_FP_CONDITION id="o104">
     <CL_FP_CONDITION classVersion="1">
-     <NODE href="#o103"/>
-     <CONDITIONS>
-      <SFPCONDITION>
-       <LOPERATOR/>
-       <OPERAND1>GV_TEST</OPERAND1>
-       <COPERATOR>EQ</COPERATOR>
-       <OPERAND2>&apos;X&apos;</OPERAND2>
-      </SFPCONDITION>
-     </CONDITIONS>
+     <NODE href="#o103"/>     
     </CL_FP_CONDITION>
    </cls:CL_FP_CONDITION>
   </asx:heap>
