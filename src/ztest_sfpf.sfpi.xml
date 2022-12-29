@@ -4,7 +4,7 @@
   <asx:values>
    <VERSION>1</VERSION>
    <TYPE/>
-   <INTERFACE href="#o101"/>
+   <INTERFACE href="#o1"/>
    <INTERFACET>
     <FPINTERFACET>
      <NAME/>
@@ -16,26 +16,26 @@
    </INTERFACET>
   </asx:values>
   <asx:heap xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:abap="http://www.sap.com/abapxml/types/built-in" xmlns:cls="http://www.sap.com/abapxml/classes/global" xmlns:dic="http://www.sap.com/abapxml/types/dictionary">
-   <cls:CL_FP_INTERFACE_DATA id="o101">
+   <cls:CL_FP_INTERFACE_DATA id="o1">
     <CL_FP_INTERFACE_DATA classVersion="1">
-     <CODING href="#o102"/>
-     <PARAMETERS href="#o103"/>
-     <GLOBAL_DEFINITIONS href="#o104"/>
-     <REFERENCE_FIELDS href="#o105"/>
+     <CODING href="#o5"/>
+     <PARAMETERS href="#o4"/>
+     <GLOBAL_DEFINITIONS href="#o3"/>
+     <REFERENCE_FIELDS href="#o2"/>
      <XSD_DEFINITIONS/>
     </CL_FP_INTERFACE_DATA>
    </cls:CL_FP_INTERFACE_DATA>
-   <cls:CL_FP_REFERENCE_FIELDS id="o105">
+   <cls:CL_FP_REFERENCE_FIELDS id="o2">
     <CL_FP_INTERFACE_DATA_CHANGED classVersion="1">
-     <INTERFACE_DATA href="#o101"/>
+     <INTERFACE_DATA href="#o1"/>
     </CL_FP_INTERFACE_DATA_CHANGED>
     <CL_FP_REFERENCE_FIELDS classVersion="1">
      <REFERENCE_FIELDS/>
     </CL_FP_REFERENCE_FIELDS>
    </cls:CL_FP_REFERENCE_FIELDS>
-   <cls:CL_FP_GLOBAL_DEFINITIONS id="o104">
+   <cls:CL_FP_GLOBAL_DEFINITIONS id="o3">
     <CL_FP_INTERFACE_DATA_CHANGED classVersion="1">
-     <INTERFACE_DATA href="#o101"/>
+     <INTERFACE_DATA href="#o1"/>
     </CL_FP_INTERFACE_DATA_CHANGED>
     <CL_FP_GLOBAL_DEFINITIONS classVersion="1">
      <GLOBAL_DATA>
@@ -51,9 +51,9 @@
      <FIELDSYMBOLS/>
     </CL_FP_GLOBAL_DEFINITIONS>
    </cls:CL_FP_GLOBAL_DEFINITIONS>
-   <cls:CL_FP_PARAMETERS id="o103">
+   <cls:CL_FP_PARAMETERS id="o4">
     <CL_FP_INTERFACE_DATA_CHANGED classVersion="1">
-     <INTERFACE_DATA href="#o101"/>
+     <INTERFACE_DATA href="#o1"/>
     </CL_FP_INTERFACE_DATA_CHANGED>
     <CL_FP_PARAMETERS classVersion="1">
      <IMPORT_PARAMETERS>
@@ -73,9 +73,9 @@
      <EXCEPTIONS/>
     </CL_FP_PARAMETERS>
    </cls:CL_FP_PARAMETERS>
-   <cls:CL_FP_CODING id="o102">
+   <cls:CL_FP_CODING id="o5">
     <CL_FP_INTERFACE_DATA_CHANGED classVersion="1">
-     <INTERFACE_DATA href="#o101"/>
+     <INTERFACE_DATA href="#o1"/>
     </CL_FP_INTERFACE_DATA_CHANGED>
     <CL_FP_CODING classVersion="1">
      <INPUT_PARAMETERS>
